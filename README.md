@@ -39,7 +39,7 @@ Install the `json-server` dependence in globally mode to simulate the backend AP
 yarn global add json-server
 ```
 
-Run the follow command to keep the backend simulation running.
+Run the following command to keep the backend simulation running.
 
 ```sh
 json-server server.json -p 3333
