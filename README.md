@@ -33,7 +33,7 @@ yarn # to install dependencies
 
 Have an Android emulator running.
 
-Install the `json-server` dependence in globaly mode to simulate the backend API.
+Install the `json-server` dependence in globally mode to simulate the backend API.
 
 ```sh
 yarn global add json-server
