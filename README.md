@@ -5,14 +5,14 @@
 
 [English](#English)
 
-[Portugês](#Português)
+[Português](#Português)
 
 ![Readme Image](./readme-img.gif)
 
 
 ### English
 
-App for study [React Native](https://facebook.github.io/react-native/) with same concepts like:
+App for study [React Native](https://facebook.github.io/react-native/) with some concepts like:
 
 * Redux;
 * Redux Saga;
@@ -83,7 +83,7 @@ yarn # para instalar as dependências
 
 Tenha um emulador do Android executando.
 
-Instale globalmente a dependẽncia `json-server` para simular API  do backend;
+Instale globalmente a dependência `json-server` para simular API  do backend;
 
 ```sh
 yarn global add json-server
