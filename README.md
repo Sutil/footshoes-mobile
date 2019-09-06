@@ -12,7 +12,7 @@
 
 ### English
 
-App for study React Native with same concepts like:
+App for study [React Native](https://facebook.github.io/react-native/) with same concepts like:
 
 * Redux;
 * Redux Saga;
