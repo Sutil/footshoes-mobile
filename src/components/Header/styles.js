@@ -4,8 +4,6 @@ import colors from '../../styles/colors';
 import logo from '../../assets/logo.png';
 
 export const Wrapper = styled.SafeAreaView`
-  flex: 0;
-  background: ${colors.dark};
   flex-direction: row;
 `;
 
@@ -39,9 +37,10 @@ export const ItemCount = styled.Text`
   right: -8px;
   min-width: 18px;
   min-height: 18px;
-  background: ${colors.primary};
+  background: ${colors.secondary};
   color: #fff;
   font-size: 12px;
+  font-weight: bold;
   padding: 2px;
   border-radius: 9px;
   overflow: hidden;

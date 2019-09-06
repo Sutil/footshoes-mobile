@@ -1,0 +1,92 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 1
+    },
+    {
+      "id": 8,
+      "amount": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/10/E74-0492-010/E74-0492-010_detalhe2.jpg?ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-kappa-impact-feminino/18/D24-1739-018/D24-1739-018_detalhe2.jpg?ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tênis Power Sport Adventure",
+      "price": 89.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-power-sport-adventure-masculino/64/DFA-0011-264/DFA-0011-264_detalhe2.jpg?ims=326x"
+    },
+    {
+      "id": 8,
+      "title": "Chuteira adidas",
+      "price": 129.9,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-campo-adidas-artilheira-iii-fg/44/COL-4138-044/COL-4138-044_detalhe2.jpg?ims=326x"
+    },
+    {
+      "id": 9,
+      "title": "Chinelo Venice Feminino",
+      "price": 61.7,
+      "image": "https://static.netshoes.com.br/produtos/chinelo-olympikus-venice-feminino/14/D22-1874-014/D22-1874-014_detalhe2.jpg?ims=326x"
+    }
+  ]
+}

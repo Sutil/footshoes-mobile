@@ -1,6 +1,6 @@
 import React from 'react';
-import {createAppContainer} from 'react-navigation';
-import {createStackNavigator} from 'react-navigation-stack';
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
 
 import Header from './components/Header';
 import Main from './screens/Main';
@@ -17,8 +17,8 @@ export default createAppContainer(
         header: <Header {...navigation} />,
       }),
       cardStyle: {
-        backgroundColor: '#191920',
+        backgroundColor: '#252525',
       },
-    },
-  ),
+    }
+  )
 );
