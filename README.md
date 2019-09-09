@@ -7,7 +7,7 @@
 
 [Português](#Português)
 
-![Readme Image](./readme-img.gif)
+![Readme Image](./readme-img_.gif)
 
 
 ### English
